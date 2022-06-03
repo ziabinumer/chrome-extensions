@@ -1,7 +1,7 @@
 {
-    "name": "Covid-19 Stats UK",
+    "name": "Youtube Results Counter",
     "version": "1.0.0",
-    "description": "latest covid data of UK",
+    "description": "Counts search results on youtube",
     "manifest_version": 3,
     "author": "Sampurna Chapagain",
     "content_scripts": [
